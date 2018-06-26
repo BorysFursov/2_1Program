@@ -10,7 +10,7 @@ namespace _2_1Program
     {   
         private static string[] parseString(string str)
         {
-            var separators = new string[] { ", " };
+            var separators = new string[] { ", ", " ", "\n\r", "\r\n" };
             var res = str.Split(separators, StringSplitOptions.None);
             return res;
         }
@@ -27,7 +27,7 @@ namespace _2_1Program
                 catch (Exception ex)
                 {
 
-                    result = ex.Message;
+                    return "Amount of words is: " + arr.Length;
                 }
                 return result;
             }
@@ -45,7 +45,7 @@ namespace _2_1Program
                     catch (Exception ex)
                     {
 
-                        return ex.Message;
+                        return "Amount of words is: "+arr.Length;
                     }
                 }
                 foreach (var item in intRes)
