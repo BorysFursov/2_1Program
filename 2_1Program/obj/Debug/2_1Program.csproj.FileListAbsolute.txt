@@ -1,0 +1,10 @@
+C:\Users\borys.fursov\Desktop\GitHub\2_1Program\2_1Program\bin\Debug\2_1Program.exe.config
+C:\Users\borys.fursov\Desktop\GitHub\2_1Program\2_1Program\bin\Debug\2_1Program.exe
+C:\Users\borys.fursov\Desktop\GitHub\2_1Program\2_1Program\bin\Debug\2_1Program.pdb
+C:\Users\borys.fursov\Desktop\GitHub\2_1Program\2_1Program\obj\Debug\2_1Program.csprojAssemblyReference.cache
+C:\Users\borys.fursov\Desktop\GitHub\2_1Program\2_1Program\obj\Debug\_2_1Program.Form1.resources
+C:\Users\borys.fursov\Desktop\GitHub\2_1Program\2_1Program\obj\Debug\_2_1Program.Properties.Resources.resources
+C:\Users\borys.fursov\Desktop\GitHub\2_1Program\2_1Program\obj\Debug\2_1Program.csproj.GenerateResource.cache
+C:\Users\borys.fursov\Desktop\GitHub\2_1Program\2_1Program\obj\Debug\2_1Program.csproj.CoreCompileInputs.cache
+C:\Users\borys.fursov\Desktop\GitHub\2_1Program\2_1Program\obj\Debug\2_1Program.exe
+C:\Users\borys.fursov\Desktop\GitHub\2_1Program\2_1Program\obj\Debug\2_1Program.pdb
